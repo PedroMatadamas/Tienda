@@ -1,0 +1,4 @@
+user: pm
+password:Sql1380
+host:localhost
+database:store_db
